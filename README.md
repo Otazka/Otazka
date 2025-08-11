@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Otazka/Otazka/main/banner.png" alt="Otazka GitHub Profile Banner" width="100%">
+  <img src="https://raw.githubusercontent.com/Otazka/Otazka/main/banner.jpg" alt="Otazka GitHub Profile Banner" width="100%">
 </p>
 
 <h1 align="center">Hey 👋, I'm Elena</h1>
