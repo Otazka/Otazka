@@ -28,6 +28,8 @@
   <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
   <img src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Linux-000000?style=flat-square&logo=linux&logoColor=white"/>
+  
   <!-- Add more badges as needed -->
 </p>
 
@@ -36,14 +38,6 @@
 ## 📌 Featured Projects
 [![Project 1](https://github-readme-stats.vercel.app/api/pin/?username=etienneduplessix&repo=pragueaidiscovery&theme=radical)](https://github.com/etienneduplessix/pragueaidiscovery/branches)
 [![Project 2](https://github-readme-stats.vercel.app/api/pin/?username=Otazka&repo=ethglobal_hackathon&theme=radical)](https://github.com/Otazka/ethglobal_hackathon)
-
----
-
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=radical" alt="GitHub Stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YourUsername&theme=radical" alt="GitHub Streak"/>
-</p>
 
 ---
 
