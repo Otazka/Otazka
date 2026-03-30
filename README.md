@@ -9,7 +9,7 @@
 ---
 
 ## 🚀 About Me
-- 🔭 I’m currently working on **Health Care App with Whoop API**
+- 🔭 I’m currently working on **final project at 42 Prague**
 - 🌱 I’m learning **C++** at 42 Prague
 - 💬 Ask me about **Hackathions or Security**
 - 📫 How to reach me: **creatorsurovtseva@gmail.com**
