@@ -9,9 +9,9 @@
 ---
 
 ## 🚀 About Me
-- 🔭 I’m currently working on **final project at 42 Prague**
-- 🌱 I’m learning **C++** at 42 Prague
-- 💬 Ask me about **Hackathions or Security**
+- 🔭 I’m currently working on **a final project at 42 Prague**
+- 🌱 I’m learning **C/C++** at 42 Prague
+- 💬 Ask me about **Hackathions or AI**
 - 📫 How to reach me: **creatorsurovtseva@gmail.com**
 - ⚡ Fun fact: *I was a lawyer*
 
