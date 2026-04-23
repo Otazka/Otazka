@@ -11,7 +11,7 @@
 ## 🚀 About Me
 - 🔭 I’m currently working on **a final project at 42 Prague**
 - 🌱 I’m learning **C/C++** at 42 Prague
-- 💬 Ask me about **Hackathions or AI**
+- 💬 Ask me about **Hackathons or AI Agents**
 - 📫 How to reach me: **creatorsurovtseva@gmail.com**
 - ⚡ Fun fact: *I was a lawyer*
 
